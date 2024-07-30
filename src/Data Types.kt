@@ -16,4 +16,11 @@ fun main() {
     println(words)
     println(isKotlininteresting)
     println(result)
+
+    //Typecasting
+    var result1 = number.toDouble()
+    println(result1)
+
+    var output = mydecimal.toInt()
+    println(output)
 }
